@@ -1,0 +1,61 @@
+.icon{
+    margin: 0;
+    padding: 0;
+    
+    right: 1px;
+    position: absolute;
+    box-shadow: 2px 2px 5px;
+    height: 100%;
+    width: 6%;
+    text-align: center;
+    
+    
+}
+.qi{
+    color: black;
+    background: white;
+    
+ 
+}
+.wi{
+    color: blue;
+    background: white;
+
+
+   
+}
+.ei{
+    color: black;
+    background: white;
+
+
+}
+.ri{
+    color: black;
+    background: white;
+
+
+}
+.ti{
+    color: black;
+    background: white;
+
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.time{
+    text-align: center;
+    background: white;
+    color: black;
+    box-shadow: 2px 2px 5px;
+    width: 120px;
+    height: 50px;
+    left: 45%;
+    position: absolute;
+    font-size: 18px;
+    justify-content: center;
+    
+}
