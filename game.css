@@ -1,0 +1,212 @@
+.icon{
+    margin: 0;
+    padding: 0;
+    
+    right: 1px;
+    position: fixed;
+    box-shadow: 2px 2px 5px;
+    height: 100%;
+    width: 6%;
+    text-align: center;
+    /* display: flex; */
+
+    
+    
+}
+.qi{
+    color: black;
+    background: white;
+
+    
+ 
+}
+.wi{
+    color: black;
+    background: white;
+    
+
+
+
+   
+}
+.ei{
+    color: blue;
+    background: white;
+
+
+
+}
+.ri{
+    color: black;
+    background: white;
+
+
+
+}
+.ti{
+    color: black;
+    background: white;
+
+
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.time{
+    text-align: center;
+    background: white;
+    color: black;
+    box-shadow: 2px 2px 5px;
+    width: 120px;
+    height: 50px;
+    left: 45%;
+    position: absolute;
+    font-size: 18px;
+    justify-content: center;
+    
+}
+.button{
+    width: 400px;
+    height: 40px;
+    background-color: green;
+    position: absolute;
+    left: 40px;
+    top: 230px;
+    border-radius: 20px;
+    border-bottom: none;
+    text-decoration: none;
+
+}
+h2{
+    text-decoration: none;
+    border-bottom: none;
+    color: black;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    left: 170px;
+    top: calc(-13px);
+}
+.but{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(1, 90, 1);
+    position: absolute;
+    border-radius: 20px;
+    border-bottom: none;
+    text-decoration: none;
+    top: 800px;
+    left: 40px;
+}
+.butt{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(1, 90, 1);
+    position: absolute;
+    border-radius: 20px;
+    border-bottom: none;
+    text-decoration: none;
+    top: 1500px;
+    left: 40px;
+}
+.xo{
+    position: absolute;
+    font-size: 50px;
+    top: 950px;
+    left: 200px;
+}
+.x{
+    color: blue;
+   }
+.o{
+    color: red;
+}
+.buttt{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(1, 90, 1);
+    position: absolute;
+    border-radius: 20px;
+    border-bottom: none;
+    text-decoration: none;
+    top: 2100px;
+    left: 40px;
+}
+.err{
+    position: absolute;
+    font-size: 30px;
+    left: 140px;
+}
+.error{
+    color: darkred;
+}
+.gam{
+    color: darkviolet;
+    position: relative;
+    left: 12px;
+}
+.fl{
+    position: absolute;
+    font-size: 50px;
+    top: 320px;
+    left: 75px;
+}
+.fall{
+    color: green;
+    position: absolute;
+    left: 30px;
+}
+.gm{
+    color: darkviolet;
+    position: absolute;
+    top: 170px;
+}
+.snk{
+    position: absolute;
+    font-size: 50px;
+    top: 1600px;
+    left: 75px;
+}
+.snake{
+    color: red;
+    position: absolute;
+    left: 25px;
+}
+.ga{
+    color: darkviolet;
+    position: absolute;
+    top: 170px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
