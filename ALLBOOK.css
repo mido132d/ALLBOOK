@@ -3,7 +3,7 @@
     padding: 0;
     
     right: 1px;
-    position: absolute;
+    position: fixed;
     box-shadow: 2px 2px 5px;
     height: 100%;
     width: 6%;
@@ -106,5 +106,51 @@
 body{
     margin: 0;
     padding: 0;
+}
+.photo5{
+    width: 320px;
+    border: 1px black;
+    background-color: blue;
+    background-size:contain;
+    background: url(download.jpg);
+    height: 150px;
+    position: absolute;
+    top: 95%;
+    left: 5%;
+
+    
+}
+.photo6{
+    width: 320px;
+    border: 1px black;
+    background-color: blue;
+    background-size:contain;
+    background: url(download.jpg);
+    height: 150px;
+    position: absolute;
+    top: 1250px;
+    left: 5%;
+}
+.photo7{
+    width: 320px;
+    border: 1px black;
+    background-color: blue;
+    background-size:contain;
+    background: url(download.jpg);
+    height: 150px;
+    position: absolute;
+    top: 95%;
+    left: 60%;
+}
+.photo8{
+    width: 320px;
+    border: 1px black;
+    background-color: blue;
+    background-size:contain;
+    background: url(download.jpg);
+    height: 150px;
+    position: absolute;
+    top: 1250px;
+    left: 60%;
 }
 
